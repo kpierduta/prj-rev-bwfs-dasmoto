@@ -1,0 +1,36 @@
+h1, h2, h3, p {
+  font-family: helvetica;
+}
+
+h1 {
+  font-size: 100px;
+  font-weight: bold;
+  display: block;
+  color: khaki;
+  text-align: center;
+  background-image: url("/Users/KellyPierduta/Dropbox/0. CPD/1. codecademy/projects/Dasmotos_art_and_crafts/resources/images/pattern.jpeg");
+}
+
+h2 {
+  font-size: 32px;
+  font-weight: bold;
+  color: white;
+  display: block;
+}
+
+#brush {
+  background-color: MediumSpringGreen;
+}
+
+#frame {
+  background-color: LightCoral;
+}
+
+#paint{
+  background-color: SkyBlue;
+}
+
+.price {
+  color: Blue;
+  font-weight: bold;
+}
